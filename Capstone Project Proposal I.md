@@ -1,10 +1,10 @@
 
-# **Mortgage Delinquencies and Crime Rates : Capstone Project Proposal I**
+# **Mortgage Delinquencies and Crime Rates : Capstone Project Proposal 1**
 
 ## **Introduction**
 
 
-To quantify the effect of crime rates on rates of default of residential mortgages.To study and find how crimes rates influence mortgage delinquencies and defaults. Does the crime rates matter and do they have dynamic adverse effects on property values? 
+To quantify the effect of crime rates on rates of default of residential mortgages.To study and find how crimes rates influence mortgage delinquencies and defaults. Does the crime rates matter and do they have dynamic adverse effects on delinquencies? 
 
 ***
 
@@ -12,7 +12,7 @@ To quantify the effect of crime rates on rates of default of residential mortgag
 ## **Purpose**
 
 
-Build a model to predict mortgage defaults and whether crime rates affect the property prices of mortgage holders. Regression analysis is used to analyze default rates over a large sample of residential mortgages for all US states during 2015 . Does crime, possibly act as a proxy for lower property values thereby increasing the probability of loan defaults .This analysis will unfold the the risk factors of loan defaults as the crime rates of neighborhood varies. 
+Build a model to predict mortgage defaults and whether crime rates have an effect on the loan defaults of mortgage holders. Regression analysis is used to analyze default rates over a large sample of residential mortgages for all US states during 2015 . Does crime, possibly act as a proxy for lower property values thereby increasing the probability of loan defaults .This analysis will unfold the the risk factors of loan defaults as the crime rates of neighborhood varies. 
 
 ***
 
