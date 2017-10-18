@@ -22,7 +22,7 @@ Build a model to predict mortgage defaults and whether crime rates have an effec
 
 **Freddie Mac Single family Loan level Dataset -2015**
 
-https://freddiemac.embs.com/FLoan/Data/download.php
+https://github.com/Sandhyakprasad/CapstoneDataScienceProject1/blob/master/historical_data1_Q12015.zip
 
 **Crime in the United States
 by Metropolitan Statistical Area, 2015**
